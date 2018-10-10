@@ -1,4 +1,10 @@
-# Algemene Informatie
+<h1 align="center">
+  <br>
+  <a href="https://www.sysqa.nl/"><img src="https://www.sysqa.nl/assets/img/sysqa_logo.png" alt="SYSQA" width="200"></a>
+  <br>
+  Algemene Informatie
+  <br>
+</h1>
 
 ## Disclaimer
 Het beheer van dit Github domein valt onder de expertise groep testautomatisering. Eventuele meningen geplaats op dit domein zijn niet per definitie representatief voor de meningen van SYSQA als organisatie of leden van het management team.
