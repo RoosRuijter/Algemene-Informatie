@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.sysqa.nl/"><img src="https://www.sysqa.nl/assets/img/sysqa_logo.png" alt="SYSQA" width="400"></a>
+  <a href="https://www.sysqa.nl/"><img src="https://www.sysqa.nl/assets/img/sysqa_logo.png" alt="SYSQA" width="200"></a>
   <br>
   Algemene Informatie
   <br>
