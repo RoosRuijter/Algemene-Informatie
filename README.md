@@ -1,7 +1,7 @@
 # Algemene Informatie
 
 ## Disclaimer
-Het beheer van dit Github domein valt onder de expertise groep testautomatisering. Eventuele meningen geplaats op dit domein zijn niet per definitie representatief voor de meningen van SYSQA als organisatie of leden van het management team.
+Het beheer van dit Github domein valt onder de expertise groep testautomatisering. Eventuele meningen geplaatst op dit domein zijn niet per definitie representatief voor de meningen van SYSQA als organisatie of leden van het management team.
 
 ## Wie zijn wij
 SYSQA is een onafhankelijke specialist op het gebied van Quality Assurance, kwaliteitsmanagement in Business en IT.
